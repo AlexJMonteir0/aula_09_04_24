@@ -1,0 +1,14 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Aula_09_04_24" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Cor Secundária  -->
+        <item name="colorSecondary">@color/second_color</item>
+
+        <!-- Cor da barra de status -->
+
+        <item name="android:statusBarColor">@color/primary_color</item>
+
+    </style>
+
+    <style name="Theme.Aula_09_04_24" parent="Base.Theme.Aula_09_04_24" />
+</resources>
